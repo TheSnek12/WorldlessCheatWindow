@@ -43,7 +43,7 @@ public class Ui : PanelBase
         grantSnatch.onValueChanged.AddListener(delegate { AbilityManager.Set(Skill.Snatch, grantSnatch.isOn); });
 
 
-        Text switchLabel = UIFactory.CreateLabel(ContentRoot, "snatchLabel", "Unlock Snatch");
+        Text switchLabel = UIFactory.CreateLabel(ContentRoot, "switchLabel", "Unlock Switch");
         UIFactory.SetLayoutElement(switchLabel.gameObject, minWidth: 200, minHeight: 25);
 
         Toggle grantSwitch;

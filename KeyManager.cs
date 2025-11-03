@@ -12,6 +12,10 @@ public class KeyManager
         {
             UIManager.ShowUI = !UIManager.ShowUI;
         }
+
+        if (!GameObject.Find("BaseNavigation"))
+            return;
+
         if (UniverseLib.Input.InputManager.GetKey(KeyCode.W) && AbilityManager.noclipping)
         {
             GameObject.Find("BaseNavigation").transform.position += UnityEngine.Vector3.up;

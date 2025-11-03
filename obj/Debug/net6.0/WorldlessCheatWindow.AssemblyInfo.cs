@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldlessCheatWindow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ccc974bbc2cc3ef5a2ea2a91405e4a05a06975")]
 [assembly: System.Reflection.AssemblyProductAttribute("Noclip and cheat window")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldlessCheatWindow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

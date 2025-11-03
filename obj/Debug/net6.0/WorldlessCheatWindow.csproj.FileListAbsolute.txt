@@ -64,3 +64,4 @@
 /home/Snek/worldless/WorldlessCheatWindow/bin/Debug/net6.0/Unity.Collections.dll
 /home/Snek/worldless/WorldlessCheatWindow/bin/Debug/net6.0/UnityEngine.SubsystemsModule.dll
 /home/Snek/worldless/WorldlessCheatWindow/bin/Debug/net6.0/Unity.Burst.dll
+/home/Snek/worldless/WorldlessCheatWindow/obj/Debug/net6.0/WorldlessCheatWindow.sourcelink.json
